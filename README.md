@@ -58,6 +58,8 @@ Example Output
 Chart 1: Price with SMA lines and buy/sell signals.
 Chart 2: Portfolio value over time.
 
+<img width="1498" height="1009" alt="Screenshot 2025-07-31 231952" src="https://github.com/user-attachments/assets/b6a56f5e-b07a-43a0-ade3-122a5aaa64c5" />
+
 Console output:
 `--- Performance Metrics ---
 Total Returns: 32.50%
